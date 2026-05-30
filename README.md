@@ -21,3 +21,23 @@ Determine whether the City of Stringtown's current water rates generate sufficie
 - **Expense_Model:** Projects annual operating expenses, capital improvement plan costs, debt service, and cash reserve contributions with inflation escalation applied to operating line items.
 - **Rate_Sufficiency_Analysis:** Core analysis sheet, compares projected revenue against total cost of service, calculates annual surplus/deficit, debt service coverage ratio, and proposed rates to achieve target DSCR of 1.15.
 - **Dashboard:** Executive summary for non-technical stakeholders. Includes KPI cards, three dynamic charts, and plain English findings summary. Updates automatically when Inputs are changed.
+
+## Key Findings
+- **Current DSCR of 0.73** falls below the minimum 1.15 lender requirement: the utility is under-collecting relative to total cost of service
+- **A ~8% system-wide rate adjustment** across both customer classes restores financial sufficiency and achieves the target 1.15 DSCR through the 5-year planning horizon
+- **Residential average monthly bill increase from $32.75 to $35.75/month:** A $3.00/month increase represents approximately 1.1% of median household income in Stringtown, TX, which is well within the EPA's 2.5% affordability threshold
+- **Commercial average monthly bill increase from $95.48 to $100.48/month:** A 5% increase in the average monthly bill for commercial customers
+- **System-wide average monthly bill increase from $43.99 to $47.35/month:** $3.36/month average increase across all 3,070 accounts
+- **Without a rate adjustment** the utility projects cumulative deficits growing through the Year 2030 as inflation escalates operating costs faster than flat-rate revenues
+
+## How to Use the Model
+1. Open `Water_Utility_Rate_Model_MichaelPham.xlsx`
+2. Navigate to the **Inputs** sheet
+3. Enter your utility's data in the light-grey-highlighted cells
+4. Review findings on the **Rate_Sufficiency_Analysis** sheet
+5. Present results using the **Dashboard** sheet
+
+## Author
+- Michael Pham
+- github.com/michaelapham
+- linkedin.com/in/michaelapham99
