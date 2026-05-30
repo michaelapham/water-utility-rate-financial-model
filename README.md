@@ -37,7 +37,7 @@ Determine whether the City of Stringtown's current water rates generate sufficie
 4. Review findings on the **Rate_Sufficiency_Analysis** sheet
 5. Present results using the **Dashboard** sheet
 
-## Model Limitations and Notes
+## Model Limitations & Notes
 - Consumption figures grew at 1.0% year-over-year for simplicity for planning-level analysis
 - Model is designed for small to mid-size water utilities (only 2 tiered rate structures), and not suitable for large metropolitan systems with more complex rate structures
 - Does not account for uncollected bills/late fees, one-time fees, capital improvement plan costs, depreciation
